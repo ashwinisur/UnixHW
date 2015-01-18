@@ -1,4 +1,4 @@
-package HW02;
+
 import java.util.*;
 
 public class StepControl_binarySearch {
@@ -79,6 +79,7 @@ public class StepControl_binarySearch {
                  }
                  return high; 
        }
+       //use with javafx
        public int step()
        {
     	   low=0;
