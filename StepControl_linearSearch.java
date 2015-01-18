@@ -1,4 +1,4 @@
-package HW02;
+
 import java.util.*;
 
 public class StepControl_linearSearch {
@@ -57,7 +57,7 @@ public class StepControl_linearSearch {
                a[i] = r.nextInt(19) +1;
            }
        }
-      
+      //use with javafx
        public int step()
        {
            int ind = getCurrentIndex();
